@@ -6,7 +6,6 @@ local config = {}
 
 local default_config = {
   prompt_title = "[ Zoxide List ]",
-  prompt_prefix = '  Zoxide  ',
 	layout_config = { height = 0.5 },
   -- Zoxide list command with score
   list_command = "zoxide query -ls",
